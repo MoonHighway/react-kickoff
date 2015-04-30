@@ -1,0 +1,17 @@
+{
+  "name": "react-bulletin-board",
+  "version": "1.0.0",
+  "description": "A simple Bulletin Board autopopulated with little yellow Bacon Ipsum notes.",
+  "main": "index.js",
+  "dependencies": {
+    "httpster": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "open http://localhost:4321 & httpster -p 4321 -d ./start",
+    "solution": "open http://localhost:3210 & httpster -p 3210 -d ./solution",
+    "all": "npm start & npm run solution"
+  },
+  "author": "Eve Porcello <eve@moonhighway.com> (http://www.moonhighway.com)",
+  "license": "MIT"
+}

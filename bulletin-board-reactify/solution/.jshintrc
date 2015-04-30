@@ -1,0 +1,28 @@
+{
+  "curly"   : true,
+  "eqeqeq"  : true,
+  "immed"   : true,
+  "latedef" : true,
+  "newcap"  : true,
+  "noarg"   : true,
+  "sub"     : true,
+  "undef"   : true,
+  "boss"    : true,
+  "eqnull"  : true,
+  "node"    : true,
+  "esnext" : true,
+  "-W079"  : false,
+  "globals" : {
+    "it"         : true,
+    "xit"        : false,
+    "describe"   : true,
+    "xdescribe"  : false,
+    "beforeEach" : true,
+    "afterEach"  : true,
+    "expect"     : true,
+    "spyOn"      : false,
+    "window"     : true,
+    "document"   : true,
+    "$"          : true
+  }
+}

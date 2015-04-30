@@ -1,0 +1,1 @@
+React.render(<h1>Your Bulletin Board App Here</h1>, document.getElementById("react-container"));
