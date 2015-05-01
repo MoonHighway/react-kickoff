@@ -34,7 +34,6 @@ changing less code will create the css file from the less file.
         $ npm run dev
 
 
-
 Project Steps
 -------------
 
@@ -74,6 +73,4 @@ Project Steps
     b. link to boostratp.less
     c. run and view
     d. Move the fonts folder
-
-
 
