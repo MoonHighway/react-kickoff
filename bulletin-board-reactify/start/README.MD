@@ -38,3 +38,42 @@ changing less code will create the css file from the less file.
 Project Steps
 -------------
 
+1. Reviewed Current Solution
+    a. server --> app.js
+    b. package.json
+    c. Run the app
+    d. look at the console error
+    e. discuss goals
+    f. Review grunt build task and show GruntFile
+    g. discuss goals
+
+
+2. Making Note and Board Modules
+    a. Install react, jquery, and jquery-ui
+    b. require() dependencies and export modules
+
+3. Add JSX Hinting
+    a. Add JSXHint instructions to GruntFile
+    b. install grunt-jsxhint and react-tools
+    c. Register task, grunt hint, add to build
+    d. Test Hintint
+
+4 Add Browserify
+    a. Added Grunt options
+    b. installed grunt-browserify and reactify
+    c. added to build
+    d. ran grunt build
+    e. ran npm start
+
+5. Add Grunt Watch
+    a. Add watch code
+    b. npm run dev
+
+6. Adding Bootstrap
+    a. npm install bootstrap
+    b. link to boostratp.less
+    c. run and view
+    d. Move the fonts folder
+
+
+
