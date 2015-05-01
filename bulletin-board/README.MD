@@ -6,9 +6,9 @@ JSBins
 ------
 This solution is running online at JSBin.
 
-* Start Bin
-* Solution Bin
-* Solution Steps X - Y
+* [Start Bin](http://output.jsbin.com/lofeju/1/edit?js,output)
+* [Solution Bin](http://output.jsbin.com/famuno/20/quiet)
+* [Solution Steps 1 - 20](http://output.jsbin.com/famuno/1/edit?js,output)
 
 Installation
 ------------
