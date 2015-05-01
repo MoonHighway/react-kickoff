@@ -1,5 +1,5 @@
-Start Building Common JS Bulletin Board with React
-==================================================
+Start Building Common JS Bulletin Board
+=======================================
 A simple Bulletin Board populated with little yellow notes from [Bacon Ipsum](http://baconipsum.com/).
 
 Installation
