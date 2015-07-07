@@ -7,12 +7,11 @@ Topics
 * Introducing React
 * Introducing JSX
 * Building React Components
-* Working with Properties
-* Working with State
+* Properties and State
 * Nesting Components
-* The Mounting Lifecycle
-* The Updating Lifecycle
-* Common JS with Browserify and Reactify
+* Component Lifecycles
+* Common JS with webpack and babel
+* Migrating to ES6
 
 ### React and JSX Intro
 
