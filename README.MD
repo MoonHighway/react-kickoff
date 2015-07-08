@@ -4,35 +4,11 @@ This course is designed to introduce seasoned javascript developers to the React
 
 Topics
 ------
-* Introducing React
-* Introducing JSX
-* Building React Components
+* Introducing React and JSX
 * Properties and State
+* Challenge : Dot Click
 * Nesting Components
 * Component Lifecycles
+* Challenge : Star Component
 * Common JS with webpack and babel
 * Migrating to ES6
-
-### React and JSX Intro
-
-* []()
-
-### Building React Components
-
-* []()
-
-### State and Props
-
-* []()
-
-### Nesting Components
-
-* []()
-
-### Mounting Lifecycle
-
-* []()
-
-### Updating Lifecycle
-
-* []()
