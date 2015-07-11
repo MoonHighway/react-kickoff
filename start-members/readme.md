@@ -195,11 +195,8 @@ pass state to child components as properties.
 #### Data
 Data will be loaded from [Random User API](http://api.randomuser.me/?nat=US&results=5).
 
-**note: Take a loot at the sample dataset, it is slightly different... hint: __results[0].user__**
-
 __Loading Data__
-
-**note: Don't forget to include jQuery or for favorite data loading framework**
+Don't forget to import jquery or your favorite framework for loading JSON.
 
 ```javascript
     $.getJSON('http://api.randomuser.me/?nat=US&results=5', function (results) {
@@ -208,6 +205,7 @@ __Loading Data__
 ```
 
 __Sample Results__
+Take a look at the sample data, it is slightly different from the previous samples... __HINT: results[0].user__
 
 ```javascript
 {
