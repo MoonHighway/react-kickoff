@@ -1,6 +1,6 @@
 React js Kickoff
 ================
-This course is designed to introduce seasoned javascript developers to the React Library.
+This course is designed to introduce JavaScript developers to the React Library.
 
 Topics
 ------
