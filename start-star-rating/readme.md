@@ -46,7 +46,7 @@ __html__
 Use your star component to construct a star rating component.
 
 * [Demo working <StarRating /> component](http://output.jsbin.com/moyiha/3/quiet)
-* [Start <StarRating /> on JSBin](http://jsbin.com/cuhasi/3/edit?js,output)
+* [Start <StarRating /> on JSBin](http://jsbin.com/dayeyot/edit?html,js)
 
 #### Properties
 * stars: the number of stars that the rating should show
