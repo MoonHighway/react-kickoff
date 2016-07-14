@@ -7,7 +7,7 @@ Let's build a __<Star />__ component that we can use in a __<StarRating />__ com
 Build a Star component to display a single star.
 
 * [Demo working <Star />](http://output.jsbin.com/moyiha/5/quiet)
-* [Start <Star /> on JSBin](http://jsbin.com/pogixu/3/edit?js,output)
+* [Start <Star /> on JSBin](http://jsbin.com/depihus/edit?html,js)
 
 #### Properties
 * color: The color of the star, default to 'grey'
